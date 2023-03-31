@@ -9,4 +9,4 @@ $thomasArcher = new Archer("thomas");
 echo "<pre>";
 var_dump($thomasWarior);
 var_dump($thomasArcher);
-echo  "</pre>";
+echo  "</pre>"; 
